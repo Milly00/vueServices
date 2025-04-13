@@ -22,3 +22,19 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+### INSTALL PREPROCESS CSS
+```
+npm install -D sass-loader sass
+```
+```
+npm install -D less-loader less
+```
+```
+npm install -D stylus-loader stylus
+```
+
+
+Se crea un stippet para la configuración de los estilos globales en el
+archivo vue.config.js
