@@ -38,3 +38,11 @@ npm install -D stylus-loader stylus
 
 Se crea un stippet para la configuración de los estilos globales en el
 archivo vue.config.js
+
+### INSTALL ROUTER DEPENDENCY
+```
+npm install vue-router
+```
+Lo realizamos cuando creamos un proyecto y despues de creado queremos usar el 
+servicio de routing, luego creamos los archivos necesarios para declarar las
+rutas
